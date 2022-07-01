@@ -41,10 +41,10 @@
 </ul>
 <h3 font="bold">Tools</h3>
  <ul>
+  <li>VS Code</li>
   <li>GIT(both CLI and GUI)</li>
   <li>Postman</li>
   <li>Hopscotch</li>
-  <li>VS Code</li>
   </ul>
 
 <h3 font="bold">Systems</h3>
@@ -61,7 +61,7 @@
 <h3 font="bold">Database</h3>
   <ul>
   <li>MongoDB (Both CLI and GUI)</li>
-  <li>Firebase Database (Experience in Realtime DB)</li>
+  <li>Firebase Database </li>
    </ul>
 <h3 font="bold">Browser Automation</h3>
 <li>Puppeteer</li>
