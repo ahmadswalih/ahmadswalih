@@ -41,7 +41,7 @@
   </li>
 </ul>
 
-<h2 font="bold"> Languges </h2>
+<h2 font="bold"> Languages </h2>
 <ul>
   <li>C</li>
   <li>C++</li>
