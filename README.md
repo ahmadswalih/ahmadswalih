@@ -2,7 +2,7 @@
 
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Ahmad Swalih</h1>
-<h3 align="center">Just an 18 y/o teen from Kerala ,India</h3>
+<h3 align="center">Just an 18 y/o teen from Kerala ,India. <br/> Always Like to Code and Read Books 📔.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadswalih&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadswalih" /> </p>
 
@@ -58,29 +58,31 @@
 <h2 font="bold">Tools</h2>
  <ul>
   <li>VS Code</li>
-  <li>GIT(both CLI and GUI)</li>
   <li>Postman</li>
   <li>Hopscotch</li>
-  </ul>
-
+  <li><h4>Version Controller</h4></li>
+  <ul> <li>GIT</li></ul>
+  <li><h4>Deployment</h4></li>
+  <ul>
+  <li>Netlify </li>
+  <li>Heroku</li>
+   </ul>
+  
+  <li><h4>Database</h4></li>
+  <ul>
+  <li>MongoDB (Both CLI and GUI)</li>
+  <li>Firebase Database </li>
+   </ul>
+   <li><h4>Automation</h4></li>
+   <ul>
+   <li>Puppeteer</li>
+   </ul>
 <h2 font="bold">Systems</h2>
   <ul>
   <li>Ubuntu </li>
   <li>Windows</li>
    </ul>
-   
-<h2 font="bold">Deployment</h2>
-  <ul>
-  <li>Netlify </li>
-  <li>Heroku</li>
-   </ul>
-<h2 font="bold">Database</h2>
-  <ul>
-  <li>MongoDB (Both CLI and GUI)</li>
-  <li>Firebase Database </li>
-   </ul>
-<h2 font="bold">Browser Automation</h2>
-<li>Puppeteer</li>
+</ul>
 
 <h3 font="bold">Checkout My <a href="https://www.behance.net/ahmadswalihcm"> Behance Profile </a> for Poster Designs 🤗</h3>
     <br/>
