@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ahmadswalih777@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact about me **I Never wanted to be a programmer in my school days :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
