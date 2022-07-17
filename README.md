@@ -25,21 +25,6 @@
 <a href="https://www.behance.net/ahmadswalihcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmadswalihcm" height="30" width="40" /></a>
 </p>
 
-<h2> Pinned Repo's </h2>
-<ul>
-  <li>
-      <a href="https://github.com/ahmadswalih/Recipe-app-react" >https://github.com/ahmadswalih/Recipe-app-react</a>
-  </li>
-  <li>
-      <a href="https://github.com/ahmadswalih/Movie-Land" >https://github.com/ahmadswalih/Movie-Land</a>
-  </li>
-  <li>
-      <a href="https://github.com/ahmadswalih/React-Weather-App" >https://github.com/ahmadswalih/React-Weather-App</a>
-  </li>
-  <li>
-      <a href="https://github.com/ahmadswalih/ULTRA-react-template" >https://github.com/ahmadswalih/ULTRA-react-template</a>
-  </li>
-</ul>
 
 <h2 font="bold"> Languages </h2>
 <ul>
