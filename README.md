@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadswalih&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadswalih" /> </p>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on <a href="https://github.com/ahmadswalih/memories-app">**Memories Application**</a>
 
 - 🌱 I’m currently learning **Docker**
 
