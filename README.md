@@ -49,6 +49,8 @@
   <ul> <li>GIT</li></ul>
   <li><h4>Deployment</h4></li>
   <ul>
+  <li>AWS</li>
+  <li>Azure</li>
   <li>Netlify </li>
   <li>Heroku</li>
    </ul>
