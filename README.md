@@ -57,8 +57,10 @@
   
   <li><h4>Database</h4></li>
   <ul>
-  <li>MongoDB (Both CLI and GUI)</li>
-  <li>Firebase Database </li>
+  <li>MongoDB </li>
+  <li>SQL</li>
+  <li>PostgreSQL</li>
+  <li>Firestore </li>
    </ul>
    <li><h4>Automation</h4></li>
    <ul>
